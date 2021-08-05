@@ -1,1 +1,2 @@
 I have another practice exercise for git.
+I append some text here.
