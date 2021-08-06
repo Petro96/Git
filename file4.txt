@@ -1,0 +1,3 @@
+#!/bin/bash
+#06.08.2021
+Hello good people.
